@@ -29,6 +29,8 @@ $ ./bin/name.js
 
 [npm](https://www.npmjs.com/)
 
+<hr>
+
 ```zsh
 $ make login
 $ make publish
