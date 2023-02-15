@@ -40,7 +40,7 @@ $ make publish
 >
 > ### If you get a 403 error
 >
-> - Conflicting package names
+> - Conflicting package names(Not a unique name in the Nom package)
 > - Version has not been changed since the last time
 >
 > Please check either of the above
