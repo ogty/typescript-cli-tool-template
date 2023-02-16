@@ -27,7 +27,8 @@ $ ./bin/name.js
 
 ### <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" width="5%"> Npm account creation
 
-[npm](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)
+- [keywords:cli - npm search](https://www.npmjs.com/search?q=keywords:cli&page=0&ranking=optimal)
 
 <hr>
 
